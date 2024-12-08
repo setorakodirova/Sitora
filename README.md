@@ -88,7 +88,7 @@ class FilterView(ListView):
 
 ```
 
-### 5. **HTML Templates for Flask**
+### 5. **HTML Templates for Django**
 
 #### **`home.html` (Form for Level Input)**
 
